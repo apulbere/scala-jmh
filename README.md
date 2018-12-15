@@ -98,3 +98,7 @@
 [info] Benchmark                                             Mode  Cnt   Score   Error   Units
 [info] LongestCommonSubsequence.longestCommonSubsequenceDP  thrpt   25  45.216 ± 1.956  ops/ms
 ```
+
+
+#### Acknowledgments
+LCS implementation was taken from [algorithms-in-scala](https://github.com/jianwu-github/algorithms-in-scala)
